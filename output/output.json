@@ -1,0 +1,266 @@
+[
+  {
+    "title": "My Review Slack",
+    "stars": 5,
+    "content": {
+      "summary": "",
+      "pros": "Working with multiple clients and internal projects means conversations can easily get messy, but Slack keeps everything where it should be. Channels help me separate campaigns, and quick voice notes or huddles make decisions faster than long emails. I also like how well it integrates with tools we already use—it saves time when sharing docs or automating small tasks.",
+      "cons": "The only friction is when channels multiply too quickly; without discipline, notifications can feel overwhelming and require occasional cleanup."
+    },
+    "date": "2025-12-24",
+    "username": "Ruth"
+  },
+  {
+    "title": "Great tool to communicate with the team!",
+    "stars": 4,
+    "content": {
+      "summary": "Very positive, I use it every work day to communicate with co workers both internal and external to my Org.",
+      "pros": "- Easy to message groups or individuals - Setting reminders to reply to certain threads is a helpful feature - Integrations with other tools such as Jira is great",
+      "cons": "Organization. Often times I am added to many slack threads/groups that aren't necessarily relevant. It would be nice to have some kind of hide feature that allows me to remove/hide it but not leave the group or thread"
+    },
+    "date": "2025-12-23",
+    "username": "Verified Reviewer"
+  },
+  {
+    "title": "No slacking off",
+    "stars": 5,
+    "content": {
+      "summary": "I like the options of being able to huddle and instant chat . I like that we can use gifs and emojis.",
+      "pros": "Chat , instant message to remote colleagues and others in different areas of the business . The option to put yourself in different status , depending on your workload .",
+      "cons": "Black or white background , be nice to separate channels and groups . Search for info in search bar may use some upgrading"
+    },
+    "date": "2025-12-22",
+    "username": "Susan"
+  },
+  {
+    "title": "One of the best communication platforms.",
+    "stars": 5,
+    "content": {
+      "summary": "",
+      "pros": "My nonprofit choose to use slack and I have to say it was one of the best choices we made. Professionally my company uses teams, so getting used to slack was one of the easiest parts.",
+      "cons": "At first we were not on the pro plan so we did have times where certain chanells would lose features or we would loose messages."
+    },
+    "date": "2025-12-18",
+    "username": "Verified Reviewer"
+  },
+  {
+    "title": "Live support of medical assistance cases.",
+    "stars": 5,
+    "content": {
+      "summary": "Slack has become our primary communication support and assistance as getting urgent cases of medical assistance becomes relatively fast, without the need to use long emails and calls.",
+      "pros": "I prefer to develop case-specific channels where the doctors, coordinators, and partners exchange updates in real time and ensure that everyone is on track in time-sensitive scenarios.",
+      "cons": "I hate the notification overload when the shift is very busy and at times, there are bugs which makes me revisit the messages twice so that I am not missing anything important."
+    },
+    "date": "2025-12-22",
+    "username": "Hikmet"
+  },
+  {
+    "title": "An easy way to coordinate work and collaborate with teammates",
+    "stars": 5,
+    "content": {
+      "summary": "The interface was easy to use, notifications were effective, and the messaging system kept me informed without disrupting the flow of work.",
+      "pros": "The interface is well organized to help you keep track of teammates, priorities, and all your messages. Whether working remotely or in the same office, it helps streamline communications.",
+      "cons": "There were no real downsides to speak of - it was intuitive to use and quickly became an indispensable part of teamwork."
+    },
+    "date": "2025-12-18",
+    "username": "David"
+  },
+  {
+    "title": "Great for communicating with colleagues",
+    "stars": 4,
+    "content": {
+      "summary": "",
+      "pros": "Slack makes it easy for me to communicate with my colleagues at work. I also appreciate that you can create channels.",
+      "cons": "Slack's search functionality isn't intuitive. Additionally, it's hard to find a message once you've already read it."
+    },
+    "date": "2025-12-19",
+    "username": "Claire"
+  },
+  {
+    "title": "Slack improves response time!",
+    "stars": 5,
+    "content": {
+      "summary": "Slack allows our team to communicate quickly and easily! We have seen a drastic increase in response time to quick questions by moving from email to Slack.",
+      "pros": "Slack makes tracking progress and updates on our projects effortless. Easy to send quick questions to our team and receive quick responses.",
+      "cons": "Messages sometimes get lost in all the noise. Older users are struggling to locate the different chats, mainly due to the amount of noise in the sidebar where the chats are located. Unnecessary pre made chats."
+    },
+    "date": "2025-12-18",
+    "username": "Verified Reviewer"
+  },
+  {
+    "title": "Praise to Slack",
+    "stars": 5,
+    "content": {
+      "summary": "I have been using it for more than 2 years for work and I would say I am using maybe 60% of the power of this software. The most useful features for me are arranging messages in different categories, scheduling and canvas.",
+      "pros": "I like the integrations it has with other platforms. The ease of use is a feature I really appreciate about the platform. Chat is fast and reliable. I like the option to schedule my messages or to share files in a quick way. There are rarely any bugs, and it is a good value for your money. I also like the app on the phone, works well",
+      "cons": "I don't like its customer support because they take a lot of time to respond and besides taking a lot of time, they are not very prompt to resolve issues. Slack's scheduled messages sometimes have a bug and don't get sent."
+    },
+    "date": "2025-12-16",
+    "username": "Viktorija"
+  },
+  {
+    "title": "Great Platform for Team Connection",
+    "stars": 5,
+    "content": {
+      "summary": "Overall, Slack has been a great tool for communication. It’s easy to use, fun, and I would definitely recommend it.",
+      "pros": "I really like all the channels and how easy they are to use. The colour features and emojis make conversations fun and help create a great sense of connection with coworkers",
+      "cons": "Sometimes it can feel a bit overwhelming with many channels and notifications, especially during busy days."
+    },
+    "date": "2025-12-17",
+    "username": "Sierra"
+  },
+  {
+    "title": "The very best product for team communication",
+    "stars": 5,
+    "content": {
+      "summary": "Slack is the clear market leader in communication software. I very much like that it hasn't been flooded with chatbot-esque features, and really appreciate that each UI change they introduce is gradual and well informed.",
+      "pros": "Slack has done the work to make the most impressive and comfortable UI on the market. I am always confident that I will get notifications. I have submitted support tickets in the past and received an actual response. Speaking to single or groups of team members is made extremely easy through the product. File retention policies and file sharing is also easy to manage, and is one of the more secure means",
+      "cons": "The product is expensive, given that it is offered as an add-on through the standard suite of either google or microsoft's services."
+    },
+    "date": "2025-12-15",
+    "username": "Philipp"
+  },
+  {
+    "title": "Slack - review from architect point of view",
+    "stars": 4,
+    "content": {
+      "summary": "I really like this product, if my office don't switch to another platform, I would be very happy to use it again. But I have to agree, that today, new platform is connected with our email soft, cloud soft etc.",
+      "pros": "This platform was really ease to use for me. I like accessibility and files sharing with my collegues at the office.",
+      "cons": "When we used is at first, there wasn't any paywall there. We have created topics connected with our office projects. I don't have access to the history of my posts and files uploaded there."
+    },
+    "date": "2025-12-04",
+    "username": "Mateusz"
+  },
+  {
+    "title": "Slack - communicate with your team",
+    "stars": 3,
+    "content": {
+      "summary": "Slack is a communication tool for messaging your team; allowing you to discuss projects, share files, pre-record audio or videos amongst other features.",
+      "pros": "We were able to integrate our TrackVia account with Slack through Workato integrations, which allowed a discussion to start in a specific channel when a record was updated or added into a view in TrackVia. You can also start a ‘huddle’ within that channel and have a video or audio conference with the channel members.",
+      "cons": "The free subscription of slack lacks customer support, you can only access the Slack Help Center for troubleshooting issues."
+    },
+    "date": "2025-12-06",
+    "username": "Saleem"
+  },
+  {
+    "title": "Slack Review",
+    "stars": 5,
+    "content": {
+      "summary": "",
+      "pros": "Slack is a simple and straightforward messaging tool to use in a workplace. The community chats are an effective way to communicate and get information out fast and efficiently.",
+      "cons": "In the past I have had some issues with being able to pull up past conversations between myself and coworkers"
+    },
+    "date": "2025-12-02",
+    "username": "Claire"
+  },
+  {
+    "title": "Not a bad product",
+    "stars": 3,
+    "content": {
+      "summary": "",
+      "pros": "Easy to use . Notifications are easy to see and will pop up on screen or can be set to make a sound which is also a nice feature",
+      "cons": "Cannot always be used with people who are outside of your office so can be hard to set up chat with other"
+    },
+    "date": "2025-12-06",
+    "username": "Joyelle"
+  },
+  {
+    "title": "Strong real time communication tool for IT teams",
+    "stars": 5,
+    "content": {
+      "summary": "Slack makes day to day coordination smoother for our IT team. Channels keep project work, on-call updates and support conversations organized, and scheduled messages help automate routine reminders. It reduces email and speeds up how quickly the team can react.",
+      "pros": "It integrates well with the tools we already use, so sharing files, linking tickets or starting quick calls happens in one place. The interface is simple enough that new team members can pick it up quickly.",
+      "cons": "We occasionally see issues with file uploads or notifications not coming through on time. The mobile app can also feel heavy on older devices, and without proper channel management the message flow becomes noisy."
+    },
+    "date": "2025-12-06",
+    "username": "Isaac"
+  },
+  {
+    "title": "Scales Up Business Communication",
+    "stars": 5,
+    "content": {
+      "summary": "",
+      "pros": "Slacks gives the value for money and offers an ease of use. It helps to scale up business communication by centralizing all the communication. Allows sharing of files with ease.",
+      "cons": "Everything about Slack is admirable. No challenge encountered for the time of my usage. Would highly recomend."
+    },
+    "date": "2025-12-03",
+    "username": "Jessy"
+  },
+  {
+    "title": "Easy and Intuitive, High Tech, Performance enhancing!",
+    "stars": 5,
+    "content": {
+      "summary": "Super happy with all the profile features and organization of different channels and search features to find information from previous years. Truly a wonderful way to run a thriving business.",
+      "pros": "Slack is something our 750 + company relies on by the moment for trusted communication and collaboration between multiple departments. Slack has improved greatly and we love it dearly. Having it on my phone is a life saver!",
+      "cons": "It was a learning curve for all of us moving from Telegram. However once acquainted with it - we've adjusted well and now love it."
+    },
+    "date": "2025-12-02",
+    "username": "Verified Reviewer"
+  },
+  {
+    "title": "Manage multiple people and projects",
+    "stars": 5,
+    "content": {
+      "summary": "",
+      "pros": "Slack is a good way to organize communication across team members and projects. The interface is engaging and simple to use.",
+      "cons": "The interface can be slightly tricky if you have multiple threads or a large team communicating with each other."
+    },
+    "date": "2025-12-02",
+    "username": "Ann"
+  },
+  {
+    "title": "Slack.. a cool way to keep in touch and also see whose active and online or whose *slacking*",
+    "stars": 5,
+    "content": {
+      "summary": "Amazing such a great tool to keep in touch or for meetings aka huddles. Also easy to use with lots of cool functions to personalize messages 😎",
+      "pros": "Its user friendly and enables a remote team to feel like we are able to communicate efficiently . Quick real time messages to colleagues . Also enables me to see if colleague is otherwise in a meeting lunch or sick. Helps keep things clear in a remote enviroment",
+      "cons": "Sometimes the notifications for whose on leave can we annoying and unnecessary . Like a weekly update and if need be people added but a notification for this can be distfacting"
+    },
+    "date": "2025-11-19",
+    "username": "Leigh Anastasia"
+  },
+  {
+    "title": "Slack Helps In Office Efficiency",
+    "stars": 5,
+    "content": {
+      "summary": "Very efficient, streamlines in office communication without having to physically leave the workstation and without having to pick up a phone.",
+      "pros": "I love that Slack is fairly easy for anyone to learn to use, including my older staff members. The chat works very rapidly and makes our clinic extremely efficient at communicating without having to physically run back and forth. I love that different channels can be created for different groups.",
+      "cons": "We use it a bit differently than most people. Instead of setting up each Slack with a different specific user per computer, we use one email to set it up by \"region\" of computers since our computers are not specifically tied to one person but rather to a group of people. For example, our receptionists all share the same log in so when I want to reach out the receptionist group, I just use one chat line regardless of which of my receptionists happen to be available."
+    },
+    "date": "2025-11-30",
+    "username": "Ashley"
+  },
+  {
+    "title": "We're connected and productive",
+    "stars": 5,
+    "content": {
+      "summary": "",
+      "pros": "Using Slack for us instead of other team communication tools is very productive. Slack makes communication as organized and easy as it can be. I like how channels keep conversations focused on some specific points. It helps not to waste time searching for messages or files shared, just know the topic.",
+      "cons": "I am always disturbed by Slack notifications. They can get noisy, and I didn't find a way to filter some notifications so as not to miss the important ones."
+    },
+    "date": "2025-11-29",
+    "username": "Christian"
+  },
+  {
+    "title": "Highly recommended tool!",
+    "stars": 5,
+    "content": {
+      "summary": "Good! Now that I have become more familiar with the product it has made managing my team, our tasks, and our communication much more seamless and organized.",
+      "pros": "Slack is easy to use, has multiple app integrations, and allows for me to manage projects and communicate with my team in one place. It has minimized the amount of random emails we send that are unable to be organized and often lead to missed tasks.",
+      "cons": "It’s a little pricey, has more features on the desk top version vs the app on my phone, and has a learning curve for new users."
+    },
+    "date": "2025-11-26",
+    "username": "Tracie"
+  },
+  {
+    "title": "Slack is THE best!",
+    "stars": 5,
+    "content": {
+      "summary": "Overall Slack is a great communication tool and definitely recommend for any business. Being able to download an app on your phone and have a way to communicate with everyone all over the world is a plus.",
+      "pros": "I started working for company that used Slack as the only form of communication between everyone at the company (from different parts of the world). Slack was honestly very nice to use, we all had different roles within the company and had channels created for each role. Everyone could see what we were each working on and it would keep a record of what we have completed. We had a mutual channel that we used for discussion and we also had private channels where we would discuss personal things with the supervisors. I liked that we could upload videos and pictures and react to certain discussions by emoji's. My favorite was to mark a task as completed with the green checkmark. We could always go back and look at the channels and find out if a specific task was completed. I only contacted Costumer support once and they were extremely helpful and friendly.",
+      "cons": "I don't think there is anything I don't like about Slack. We used it everyday multiple times a day and everything about It I loved."
+    },
+    "date": "2025-11-29",
+    "username": "Karen"
+  }
+]
